@@ -66,7 +66,7 @@ Vérifier : git status
 ## 10. Créer une Pull Request
 
 -   Rendez-vous sur :
-    https://github.com/basile-desjuzeur/albert_school_pr_practice/pulls
+    https://github.com/Tom1100-git/albert_school_pr_practice/pulls
     
     Créez une PR depuis votre branche vers `main` du repo original.
 
